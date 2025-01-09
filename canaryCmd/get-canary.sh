@@ -1,0 +1,1 @@
+go run canary.go -port 9999 # Other Port because port 9000 is in use
